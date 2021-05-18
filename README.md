@@ -1,2 +1,2 @@
-# Plinko-with-scores
-proj-33
+#Project 33
+Output link : https://vedantkubal2008.github.io/P-33/
